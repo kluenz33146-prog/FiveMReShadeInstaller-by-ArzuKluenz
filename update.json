@@ -1,6 +1,6 @@
 {
-  "version":"1.0.1",
-  "downloadUrl": "https://github.com/kluenz33146-prog/FiveMReShadeInstaller-by-ArzuKluenz/releases/download/v1.0.0/FiveMReShadeInstaller.exe"
-  "sha256":".....",
-  "notes":"Bug fixes"
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/kluenz33146-prog/FiveMReShadeInstaller-by-ArzuKluenz/releases/download/v1.0.0/FiveMReShadeInstaller.exe",
+  "sha256": "...",
+  "notes": "Initial Release"
 }
