@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/kluenz33146-prog/FiveMReShadeInstaller-by-ArzuKluenz/releases/download/v1.0.0/FiveMReShadeInstaller.exe",
-  "sha256": "1DF8B1CB97AA7EFB5C3E836483BE76477D7668597E680745545E34D724F73925",
-  "notes": "Initial Release\n- FiveM ReShade Installer\n- Automatic FiveM folder detection\n- Backup and Restore system\n- Safe install and uninstall\n- Modern animated UI"
+  "version":"1.0.1",
+  "downloadUrl":"https://github.com/...../FiveMReShadeInstaller.exe",
+  "sha256":".....",
+  "notes":"Bug fixes"
 }
