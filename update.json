@@ -1,7 +1,7 @@
 {
   "version": "1.0.3",
   "downloadUrl": "https://github.com/kluenz33146-prog/FiveMReShadeInstaller-by-ArzuKluenz/releases/download/v1.0.3/FiveMReShadeInstaller-1.0.3.zip",
-  "sha256": "3715C362F22FA5171CD35757909B9682B9806CC8331963E8A2CCF820B91F6B1A",
+   "sha256": "50B8E61BC632F1C91CFB52B656EECADB3E21C0D98867DE87623276FCE14237DC",
   "mandatory": false,
   "notes": "Auto Update System v1.0.3"
 }
